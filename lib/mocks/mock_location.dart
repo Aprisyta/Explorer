@@ -5,7 +5,7 @@ class MockLocation extends Location {
     static Location FetchAny() {
       return Location(
         name: "Hyderabad",
-        url: "http://hyderabad.telangana.gov.in/",
+        url: "https://cdn-images-1.medium.com/max/2000/1*vdJuSUKWl_SA9Lp-32ebnA.jpeg",
         facts: <LocationFact>[
           LocationFact(
             title: "Hitech City",
